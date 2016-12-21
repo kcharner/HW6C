@@ -1,0 +1,27 @@
+* {
+	color: #000080;
+}
+.jumbotron {
+	color: white;
+	text-align: center;
+	background-color: #283593;
+}
+
+.form-group {
+	margin-top: 13px;
+}
+
+/*.panel-heading {
+	background-color: #000080;
+	color: white;
+} - THESE CSS UPDATES ARE NOT DISPLAYING ON PAGE*/ 
+
+#searchBtn {
+	background-color: grey;
+	color: white;
+}
+
+#clearBtn {
+	background-color: grey;
+	color: white;
+}
